@@ -1,0 +1,3 @@
+The [[Work Breakdown Structure (WBS)]] is used to link the organization units responsible for performing the work. The OBS depicts how the firm has organized to discharge work responsibility. The purposes of the OBS are to provide a framework to summarize organization unit work performance, identify the organization units responsible for work packages, and tie the organization unit to cost control accounts.
+
+![[IntegrationofWBSandOBS_example.png]]

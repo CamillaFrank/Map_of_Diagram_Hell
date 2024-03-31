@@ -1,0 +1,3 @@
+#subtopicDEF 
+Quality and the ultimate success of a project are traditionally defined as meeting and/or exceeding the expectations of the customer and/or upper management in terms of the cost (budget), time (schedule), and performance (scope) of the project. The interrelationship among these
+criteria varies from project to project. There will be trade-offs between these elements as described in the [[Scope Triangle (Death Triangle)]]. A [[Project Priority Matrix (PPM)]] can be used to define their role in a project.

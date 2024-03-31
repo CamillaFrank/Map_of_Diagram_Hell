@@ -1,0 +1,1 @@
+The planned time-phased baseline of the value of the work scheduled. An approved cost estimate of the resources scheduled in a time-phased cumulative baseline. [

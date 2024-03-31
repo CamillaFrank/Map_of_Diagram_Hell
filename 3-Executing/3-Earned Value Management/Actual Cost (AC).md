@@ -1,0 +1,1 @@
+Actual cost of the work completed. The sum of the costs incurred in accomplishing work (ACWP—actual cost of the work performed).

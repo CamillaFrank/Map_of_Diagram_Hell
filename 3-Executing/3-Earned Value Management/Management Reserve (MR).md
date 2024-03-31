@@ -1,0 +1,1 @@
+A percentage of the total project budget reserved for contingencies. The fund exists to cover unforeseen, new problems—not unnecessary overruns. The reserves are designed to reduce the risk of project delays. Management reserves are typically controlled by the project owner or project manager.

@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "ecbc4da431a79f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "15627f65137c2e1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545be1a7162e0389",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecd122826ed5c3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Executing/2-Monitoring Tools/Monitoring tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "843c01f7567e42c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Executing/2-Monitoring Tools/Tracking Gantt Chart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e646911a809f545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3848dfccda5fa463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Executing/3-Earned Value Management/Cost-Schedule Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0a1114e6d30bb12",
+    "type": "split",
+    "children": [
+      {
+        "id": "057040442c274ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc6eed1797c65463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d502d403fcd3796a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mr",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ac60b00424a3185",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "dc00c0a2ac21c5bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ef1ab2383fbc12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aed2114cfd6e64f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7cf9065ed7eaca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d53fd31ddc552078",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "badc4e34388d60b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "545be1a7162e0389",
+  "lastOpenFiles": [
+    "3-Executing/2-Monitoring Tools/Tracking Gantt Chart.md",
+    "3-Executing/2-Monitoring Tools/Monitoring tools.md",
+    "Overview Notes.md",
+    "Images/Pasted image 20240317142429.png",
+    "Images/Pasted image 20240317142054.png",
+    "5-Strategy and Organization",
+    "3-Executing/2-Monitoring Tools/Burn-Up Chart.md",
+    "3-Executing/2-Monitoring Tools/Variance Chart.md",
+    "3-Executing/2-Monitoring Tools/Control Chart.md",
+    "3-Executing/Executing.md",
+    "3-Executing/3-Earned Value Management/Cost-Schedule Graph.md",
+    "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
+    "3-Executing/4-Performance Indices/Cost Performance Index (CPI).md",
+    "3-Executing/4-Performance Indices/Scheduling Performance Index (SPI).md",
+    "3-Executing/4-Performance Indices/Percent complete index budgeted costs (PCIB).md",
+    "3-Executing/3-Earned Value Management/Earned Value (EV).md",
+    "3-Executing/4-Performance Indices/Performance Indices.md",
+    "3-Executing/4-Performance Indices/Percent complete index actual costs (PCIC).md",
+    "3-Executing/4-Performance Indices/Management Reserve Index (MRI).md",
+    "3-Executing/3-Earned Value Management/Cost Variance (CV).md",
+    "3-Executing/3-Earned Value Management/Management Reserve (MR).md",
+    "3-Executing/3-Earned Value Management/Schedule Variance (SV).md",
+    "3-Executing/3-Earned Value Management/Schedule Slip.md",
+    "3-Executing/3-Earned Value Management/Estimated cost at completion (EAC).md",
+    "3-Executing/3-Earned Value Management/Estimated cost to complete remaining work (ETC).md",
+    "3-Executing/3-Earned Value Management/Cost Variance at Completion (VAC).md",
+    "3-Executing/3-Earned Value Management/Budgeted cost at completion (BAC).md",
+    "3-Executing/3-Earned Value Management/Actual Cost (AC).md",
+    "Images/CostScheduleGraph_withMRandSlip.png",
+    "3-Executing/4-Performance Indices",
+    "Images/AdditionalPerformanceIndices_interperetation1.png",
+    "Images/AdditionalPerformanceIndices_interperetation2.png",
+    "Images/CostScheduleGraph_interpertation.png",
+    "Images/CostScheduleGraph_example.png",
+    "cost",
+    "3-Executing/3-Earned Value Management",
+    "Images/TrackingGanttChart_example.png",
+    "Pasted image 20240329161500.png",
+    "Images/MilestoneTrendAnalysis_example.png",
+    "3-Executing/2-Monitoring Tools",
+    "3-Executing/1-Project Monitoring Information System",
+    "1-Defining/3-Detailed Scope Planning",
+    "1-Defining/2-Initial Scope Planning",
+    "1-Defining/1-Establishing Project Priorities",
+    "2-Planning/2-Scheduling"
+  ]
+}
