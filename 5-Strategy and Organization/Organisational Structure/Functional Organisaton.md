@@ -1,0 +1,12 @@
+Company organised are functional units, e.g, testing, fabrication, customer service. 
+Projects handled within the functional structure – PM must pull resources across necessary functions
+
+![[FunctionalOrganisaton_example.png]]
+
+
+| Pro                                                                                                                 | Cons                                                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| No change: Projects are completed within the basic functional structure of the company –no major changes needed     | Lack of focus: each function is just that – a function, and has its own goals and measures. So does its staff. Having staff assigned to a project may not help the function reach it goals, and the assigned staff may fall behind on their function objectives |
+| Maximal flexibility of staff –in theory, we can assign anyone to work on the project                                | Poor integration: if specialists are focused only on their function, they may not care what is best for the project overall                                                                                                                                     |
+| Post-project transition: once a project is done, staff have their home functions –no interruptions                  | Slow: generally slower to complete projects and response time is slow with many managers to deal with                                                                                                                                                           |
+| Deep expertise: if the scope of the project is narrow and aligns with the business, we have deep expertise in-house | Lack of ownership: Motivation of staff to contribute to project can be weak and because they only see a segment of the project, there is lack of ownership and identification with the project.                                                                 |

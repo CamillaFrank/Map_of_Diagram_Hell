@@ -8,59 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "545be1a7162e0389",
+            "id": "ecd122826ed5c3f4",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "ecd122826ed5c3f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Executing/2-Monitoring Tools/Monitoring tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "843c01f7567e42c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Executing/2-Monitoring Tools/Tracking Gantt Chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e646911a809f545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3848dfccda5fa463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Executing/3-Earned Value Management/Cost-Schedule Graph.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -186,52 +138,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "545be1a7162e0389",
+  "active": "ecd122826ed5c3f4",
   "lastOpenFiles": [
-    "3-Executing/2-Monitoring Tools/Tracking Gantt Chart.md",
-    "3-Executing/2-Monitoring Tools/Monitoring tools.md",
-    "Overview Notes.md",
-    "Images/Pasted image 20240317142429.png",
-    "Images/Pasted image 20240317142054.png",
-    "5-Strategy and Organization",
-    "3-Executing/2-Monitoring Tools/Burn-Up Chart.md",
-    "3-Executing/2-Monitoring Tools/Variance Chart.md",
-    "3-Executing/2-Monitoring Tools/Control Chart.md",
-    "3-Executing/Executing.md",
-    "3-Executing/3-Earned Value Management/Cost-Schedule Graph.md",
+    "5-Strategy and Organization/Organisational Strategy/Strategic Management.md",
+    "5-Strategy and Organization/Organisational Strategy/Organisational Strategy.md",
+    "5-Strategy and Organization/Organisational Culture.md",
+    "5-Strategy and Organization/Organisation.md",
+    "5-Strategy and Organization/Organisational Structure/Organisational Structure.md",
+    "5-Strategy and Organization/Organisational Strategy/Portfolio Management System.md",
+    "5-Strategy and Organization/Organisational Strategy/Project Selection System.md",
+    "5-Strategy and Organization/Organisational Strategy/Project Priority Evaluation Form.md",
+    "5-Strategy and Organization/Organisational Strategy/Non-Financial criteria.md",
+    "5-Strategy and Organization/Organisational Strategy/Net Present Value (NPV).md",
+    "5-Strategy and Organization/Organisational Strategy/Payback Model.md",
+    "5-Strategy and Organization/Organisational Strategy/Financial criteria.md",
+    "5-Strategy and Organization/Organisational Strategy/Return on Investment (ROI).md",
+    "Images/NetPresentValue_formular.png",
+    "5-Strategy and Organization/Organisational Strategy/Organizational Objectives.md",
+    "Images/OrganizationalObjectives_charataristics.png",
+    "5-Strategy and Organization/Organisational Strategy/Mission Statement.md",
+    "Images/StrategicManagement_process.png",
+    "Images/OrganisationalCulture_aspects.png",
+    "5-Strategy and Organization/Organisational Structure/Holacratic Organisational Structure.md",
+    "Images/holacracyVShierachy.png",
+    "5-Strategy and Organization/Organisational Structure/Fully Projectized Organisation.md",
+    "Images/FullyProjectizedOrganisation_example.png",
+    "5-Strategy and Organization/Organisational Structure/Matrix Structure.md",
+    "Images/MatrixStructure_example.png",
+    "5-Strategy and Organization/Organisational Structure/Dedicated Project Teams.md",
+    "Images/DedicatedProjectTeams_example.png",
+    "5-Strategy and Organization/Organisational Structure/Functional Organisaton.md",
+    "Images/FunctionalOrganisaton_example.png",
+    "Images/OrganisationalStructure_example.png",
+    "5-Strategy and Organization/Organisational Structure",
+    "5-Strategy and Organization/Organisational Strategy/Enviornment.md",
+    "5-Strategy and Organization/Organisational Strategy",
     "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
-    "3-Executing/4-Performance Indices/Cost Performance Index (CPI).md",
-    "3-Executing/4-Performance Indices/Scheduling Performance Index (SPI).md",
-    "3-Executing/4-Performance Indices/Percent complete index budgeted costs (PCIB).md",
-    "3-Executing/3-Earned Value Management/Earned Value (EV).md",
-    "3-Executing/4-Performance Indices/Performance Indices.md",
-    "3-Executing/4-Performance Indices/Percent complete index actual costs (PCIC).md",
-    "3-Executing/4-Performance Indices/Management Reserve Index (MRI).md",
-    "3-Executing/3-Earned Value Management/Cost Variance (CV).md",
-    "3-Executing/3-Earned Value Management/Management Reserve (MR).md",
-    "3-Executing/3-Earned Value Management/Schedule Variance (SV).md",
-    "3-Executing/3-Earned Value Management/Schedule Slip.md",
-    "3-Executing/3-Earned Value Management/Estimated cost at completion (EAC).md",
-    "3-Executing/3-Earned Value Management/Estimated cost to complete remaining work (ETC).md",
-    "3-Executing/3-Earned Value Management/Cost Variance at Completion (VAC).md",
-    "3-Executing/3-Earned Value Management/Budgeted cost at completion (BAC).md",
-    "3-Executing/3-Earned Value Management/Actual Cost (AC).md",
-    "Images/CostScheduleGraph_withMRandSlip.png",
+    "README.md",
+    "3-Executing/2-Monitoring Tools/Monitoring tools.md",
+    "Bottom-up_range.png.md",
+    "3-Executing/2-Monitoring Tools/Tracking Gantt Chart.md",
+    "5-Strategy and Organization",
     "3-Executing/4-Performance Indices",
-    "Images/AdditionalPerformanceIndices_interperetation1.png",
-    "Images/AdditionalPerformanceIndices_interperetation2.png",
-    "Images/CostScheduleGraph_interpertation.png",
-    "Images/CostScheduleGraph_example.png",
     "cost",
     "3-Executing/3-Earned Value Management",
-    "Images/TrackingGanttChart_example.png",
-    "Pasted image 20240329161500.png",
-    "Images/MilestoneTrendAnalysis_example.png",
     "3-Executing/2-Monitoring Tools",
     "3-Executing/1-Project Monitoring Information System",
     "1-Defining/3-Detailed Scope Planning",
-    "1-Defining/2-Initial Scope Planning",
-    "1-Defining/1-Establishing Project Priorities",
-    "2-Planning/2-Scheduling"
+    "1-Defining/2-Initial Scope Planning"
   ]
 }
