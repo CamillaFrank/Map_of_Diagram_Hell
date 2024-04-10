@@ -12,4 +12,4 @@ The map itself is a chaotic mess of faded lines, nonsensical symbols, and crypti
 Requirements:
 - Obsidian: A shard of volcanic glass, rumored to offer a sliver of clarity amidst the maddening confusion.
 
-![ObsidianOverview](https://github.com/CamillaFrank/Map_of_Diagram_Hell/assets/75301585/56717e37-a418-4e5b-a204-f1d846308e59)
+![image](https://github.com/CamillaFrank/Map_of_Diagram_Hell/assets/75301585/6f326ac9-b912-48bc-99d6-54fb530ed5ea)
