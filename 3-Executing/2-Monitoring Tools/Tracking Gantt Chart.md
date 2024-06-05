@@ -1,4 +1,4 @@
-Expansion of [[Gantt Chart]] used in planning
+Expansion of Gantt Chart used in planning
 
 - Provides temporal tracking of activities
 - Shows critical path

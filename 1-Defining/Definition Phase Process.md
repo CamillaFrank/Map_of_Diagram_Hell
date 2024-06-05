@@ -1,12 +1,5 @@
-#topicDEF
 *Goals, Specifications, Tasks, Responsibilities*
 
-- [[Stakeholders]]
-- [[Establishing Project Priorities]]
-- [[Initial (early) Scope Planning]]
-- [[Detailed (late) scope planning]]
-
-## Definition Phase Process
 Definition-phase documents feed into each other:
 - COS(conditions of satisfaction)
 	- Defines the criteria for success
