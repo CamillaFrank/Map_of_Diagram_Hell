@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag: #topicDEF  ",
@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 10794228
       }
+    },
+    {
+      "query": "tag:#examTheme  ",
+      "color": {
+        "a": 1,
+        "rgb": 16612551
+      }
     }
   ],
   "collapse-display": true,
@@ -112,10 +119,10 @@
   "nodeSizeMultiplier": 1.38866943866944,
   "lineSizeMultiplier": 1.79615384615385,
   "collapse-forces": false,
-  "centerStrength": 0.545738045738046,
-  "repelStrength": 17.5675675675676,
+  "centerStrength": 0.603950103950104,
+  "repelStrength": 19.97920997921,
   "linkStrength": 1,
-  "linkDistance": 302,
-  "scale": 0.27490959133258425,
+  "linkDistance": 140,
+  "scale": 0.2578078459732153,
   "close": true
 }

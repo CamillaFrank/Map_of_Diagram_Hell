@@ -17,6 +17,6 @@ Definition-phase documents feed into each other:
 - WBS(work breakdown structure)
 	- Describes all work to be done –as defined by the RBS
 
-When the WBS is done, we can start the [[Planning]] process.
+When the WBS is done, we can start the planning process.
 
 ![[DefinitionPhase_process.png]]

@@ -6,7 +6,7 @@ About Monitoring and Controlling the project
 - [[Monitoring tools]]
 - [[Earned Value Management (EVM)]]
 
-When the client is satisfied that the acceptance criteria have been met the project enters the [[Closing]] phase
+When the client is satisfied that the acceptance criteria have been met the project enters the Closing phase
 ## The Project Control Process
 1. **Setting a baseline plan** 
 	- All the work we have done in previous steps

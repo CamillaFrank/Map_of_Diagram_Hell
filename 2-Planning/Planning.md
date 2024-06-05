@@ -5,7 +5,7 @@
 - [[Scheduling]]
 - [[Risk Management]]
 - [[Resource and Cost Scheduling]] 
-	- Once we have a budget baseline, we can during the [[Executing]] phase compare our spend against planned spend
+	- Once we have a budget baseline, we can during the Executing phase compare our spend against planned spend
 
 ## Planning Phase Process
 Process WBS to Project plan:
