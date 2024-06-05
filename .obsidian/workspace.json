@@ -11,35 +11,24 @@
             "id": "ecd122826ed5c3f4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects and the Project Manager's Role.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3e01e626eae9620",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "6445c59b520f32be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Planning/4-Resource and Cost Scheduling/Time-phased Budget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1227603d7764c4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +151,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecd122826ed5c3f4",
+  "active": "b3e01e626eae9620",
   "lastOpenFiles": [
+    "1. Projects and the Project Manager's Role.md",
+    "12. International projects.md",
+    "11. Leadership, Teams, and Roles.md",
+    "9. Business and Strategy.md",
+    "8. Controlling  and Closing.md",
+    "7. Execution.md",
+    "6. Resources.md",
+    "4. Planning.md",
+    "3. Estimation.md",
+    "10. Organization.md",
+    "5. Risk.md",
+    "2. Project Definition and Scoping.md",
     "to do.md",
     "2-Planning/4-Resource and Cost Scheduling/Time-phased Budget.md",
     "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
@@ -179,23 +180,11 @@
     "5-Strategy and Organization/Organisational Culture.md",
     "5-Strategy and Organization/Organisation.md",
     "5-Strategy and Organization/Organisational Structure/Organisational Structure.md",
-    "5-Strategy and Organization/Organisational Strategy/Portfolio Management System.md",
-    "5-Strategy and Organization/Organisational Strategy/Project Selection System.md",
-    "5-Strategy and Organization/Organisational Strategy/Project Priority Evaluation Form.md",
-    "5-Strategy and Organization/Organisational Strategy/Non-Financial criteria.md",
-    "5-Strategy and Organization/Organisational Strategy/Net Present Value (NPV).md",
-    "5-Strategy and Organization/Organisational Strategy/Payback Model.md",
-    "5-Strategy and Organization/Organisational Strategy/Financial criteria.md",
-    "5-Strategy and Organization/Organisational Strategy/Return on Investment (ROI).md",
     "Images/NetPresentValue_formular.png",
-    "5-Strategy and Organization/Organisational Strategy/Organizational Objectives.md",
     "Images/OrganizationalObjectives_charataristics.png",
-    "5-Strategy and Organization/Organisational Strategy/Mission Statement.md",
     "Images/StrategicManagement_process.png",
     "Images/OrganisationalCulture_aspects.png",
-    "5-Strategy and Organization/Organisational Structure/Holacratic Organisational Structure.md",
     "Images/holacracyVShierachy.png",
-    "5-Strategy and Organization/Organisational Structure/Fully Projectized Organisation.md",
     "Images/FullyProjectizedOrganisation_example.png",
     "Images/MatrixStructure_example.png",
     "Images/DedicatedProjectTeams_example.png",
