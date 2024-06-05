@@ -14,6 +14,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6445c59b520f32be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Planning/4-Resource and Cost Scheduling/Time-phased Budget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1227603d7764c4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -44,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mr",
+                "query": "earned",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,12 +164,16 @@
   },
   "active": "ecd122826ed5c3f4",
   "lastOpenFiles": [
+    "to do.md",
+    "2-Planning/4-Resource and Cost Scheduling/Time-phased Budget.md",
+    "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
+    "3-Executing/3-Earned Value Management/Earned Value (EV).md",
+    "6-Case Analysis",
     "1-Defining/Stakeholders.md",
-    "Social Currency.md",
+    "1-Defining/Social Currency.md",
     "3-Executing/Executing.md",
     "2-Planning/Planning.md",
     "1-Defining/Defining.md",
-    "3-Executing/3-Earned Value Management/Earned Value (EV).md",
     "5-Strategy and Organization/Organisational Strategy/Strategic Management.md",
     "5-Strategy and Organization/Organisational Strategy/Organisational Strategy.md",
     "5-Strategy and Organization/Organisational Culture.md",
@@ -169,11 +197,8 @@
     "Images/holacracyVShierachy.png",
     "5-Strategy and Organization/Organisational Structure/Fully Projectized Organisation.md",
     "Images/FullyProjectizedOrganisation_example.png",
-    "5-Strategy and Organization/Organisational Structure/Matrix Structure.md",
     "Images/MatrixStructure_example.png",
-    "5-Strategy and Organization/Organisational Structure/Dedicated Project Teams.md",
     "Images/DedicatedProjectTeams_example.png",
-    "5-Strategy and Organization/Organisational Structure/Functional Organisaton.md",
     "Images/FunctionalOrganisaton_example.png",
     "Images/OrganisationalStructure_example.png",
     "5-Strategy and Organization/Organisational Structure",
@@ -184,7 +209,6 @@
     "3-Executing/3-Earned Value Management",
     "3-Executing/2-Monitoring Tools",
     "3-Executing/1-Project Monitoring Information System",
-    "1-Defining/3-Detailed Scope Planning",
-    "1-Defining/2-Initial Scope Planning"
+    "1-Defining/3-Detailed Scope Planning"
   ]
 }
