@@ -8,23 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef4b2f7beaeddf66",
+            "id": "b1fa00a6c208494e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "5692a0fdc6f91fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11. Leadership, Teams, and Roles.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -150,35 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4b2f7beaeddf66",
+  "active": "b1fa00a6c208494e",
   "lastOpenFiles": [
-    "2-Planning/4-Resource and Cost Scheduling/Resource and Cost Scheduling.md",
-    "11. Leadership, Teams, and Roles.md",
-    "10. Organization.md",
-    "9. Business and Strategy.md",
-    "8. Controlling  and Closing.md",
-    "3-Executing/Executing.md",
-    "7. Execution.md",
-    "6. Resources.md",
-    "4. Planning.md",
-    "5. Risk.md",
-    "2-Planning/Planning.md",
-    "3-Executing/2-Monitoring Tools/Tracking Gantt Chart.md",
-    "3. Estimation.md",
-    "2-Planning/1-Project Estimation/Project Estimation.md",
-    "2. Project Definition and Scoping.md",
-    "1-Defining/Definition Phase Process.md",
-    "1-Defining/Defining.md",
-    "1. Projects and the Project Manager's Role.md",
-    "5-Strategy and Organization/Organisation.md",
-    "12. International projects.md",
+    "Exam topics/12. International projects.md",
+    "Exam topics/11. Leadership, Teams, and Roles.md",
+    "Exam topics/10. Organization.md",
+    "Exam topics/9. Business and Strategy.md",
+    "5-Strategy and Organization/Organisational Strategy/Project Selection System.md",
+    "5-Strategy and Organization/Organisational Strategy/Strategic Management.md",
+    "5-Strategy and Organization/Organisational Strategy/Portfolio Management System.md",
+    "5-Strategy and Organization/Organisational Strategy/Organisational Strategy.md",
+    "Exam topics/7. Execution.md",
+    "Images/Pasted image 20240607184332.png",
+    "Exam topics/8. Controlling  and Closing.md",
     "to do.md",
-    "2-Planning/4-Resource and Cost Scheduling/Time-phased Budget.md",
-    "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
-    "3-Executing/3-Earned Value Management/Earned Value (EV).md",
+    "Exam topics",
+    "Exam topics/6. Resources.md",
+    "2-Planning/4-Resource and Cost Scheduling/Resource and Cost Scheduling.md",
+    "2-Planning/2-Scheduling/Scheduling.md",
+    "Exam topics/5. Risk.md",
+    "2-Planning/3-Risk Management/Risk Management.md",
+    "Exam topics/4. Planning.md",
+    "2-Planning/Planning.md",
+    "Exam topics/3. Estimation.md",
+    "Exam topics/2. Project Definition and Scoping.md",
+    "2-Planning/1-Project Estimation/Project Estimation.md",
+    "1-Defining/3-Detailed Scope Planning/Detailed (late) scope planning.md",
+    "1-Defining/2-Initial Scope Planning/Initial (early) Scope Planning.md",
+    "1-Defining/1-Establishing Project Priorities/Establishing Project Priorities.md",
+    "1-Defining/Definition Phase Process.md",
+    "Exam topics/1. Projects and the Project Manager's Role.md",
     "6-Case Analysis",
-    "1-Defining/Stakeholders.md",
-    "1-Defining/Social Currency.md",
     "Images/NetPresentValue_formular.png",
     "Images/OrganizationalObjectives_charataristics.png",
     "Images/StrategicManagement_process.png",
@@ -188,7 +178,6 @@
     "Images/MatrixStructure_example.png",
     "Images/DedicatedProjectTeams_example.png",
     "Images/FunctionalOrganisaton_example.png",
-    "Images/OrganisationalStructure_example.png",
     "5-Strategy and Organization/Organisational Structure",
     "5-Strategy and Organization/Organisational Strategy",
     "5-Strategy and Organization",
@@ -196,7 +185,6 @@
     "cost",
     "3-Executing/3-Earned Value Management",
     "3-Executing/2-Monitoring Tools",
-    "3-Executing/1-Project Monitoring Information System",
-    "1-Defining/3-Detailed Scope Planning"
+    "3-Executing/1-Project Monitoring Information System"
   ]
 }
