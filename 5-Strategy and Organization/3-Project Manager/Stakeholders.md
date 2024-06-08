@@ -1,8 +1,9 @@
 Individuals and organizations who are actively involved in the project, or whose interests may be positively or negatively affected as a result of project execution or successful project completion.
 
-[[Social Currency]] can be sued to convince them of one of your objectives
+[[Social Currency]] can be used to convince them of one of your objectives
 
 ![[Stakeholders.png]]
+![[Stakeholders-book.png]]
 
 
 ![[Stakeholder_square.png]]

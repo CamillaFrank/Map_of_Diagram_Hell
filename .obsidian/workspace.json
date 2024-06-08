@@ -21,19 +21,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam topics/7. Execution.md",
+                "file": "Exam topics/11. Leadership, Teams, and Roles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "636050251effbe33",
+            "id": "cceb73d0fe0cde31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Executing/5-Software Development/Software Development.md",
+                "file": "5-Strategy and Organization/4-Teams/Managing Project Teams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b40101f3cd97acec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Strategy and Organization/4-Teams/Functional Conflict.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "005f12f17c621b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Strategy and Organization/4-Teams/Dysfunctional Conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,51 +188,51 @@
   },
   "active": "b1fa00a6c208494e",
   "lastOpenFiles": [
+    "5-Strategy and Organization/4-Teams/Managing Project Teams.md",
+    "5-Strategy and Organization/4-Teams/Project Team Pitfalls.md",
+    "Team Spirit Becomes Team Infatuation.md",
+    "Bureaucratic Bypass Syndrome.md",
+    "5-Strategy and Organization/4-Teams/Groupthink.md",
+    "Exam topics/11. Leadership, Teams, and Roles.md",
+    "5-Strategy and Organization/4-Teams/Functional Conflict.md",
+    "5-Strategy and Organization/4-Teams/Managing Conflict within the Project.md",
+    "5-Strategy and Organization/4-Teams/Dysfunctional Conflict.md",
+    "Images/conflict-in-lifecycle.png",
+    "5-Strategy and Organization/4-Teams/Project Vision.md",
+    "5-Strategy and Organization/4-Teams/Team Identity.md",
+    "5-Strategy and Organization/4-Teams/Team Norms.md",
+    "5-Strategy and Organization/4-Teams/Building High-Performance Project Teams.md",
+    "Images/Creating a High-Performance Project Team.png",
+    "5-Strategy and Organization/4-Teams/Situation Factors.md",
+    "5-Strategy and Organization/4-Teams/The Five-Stage Team Development Model.md",
+    "Images/The Five-Stage Team Development Model.png",
+    "5-Strategy and Organization/3-Project Manager/Project Manager.md",
+    "5-Strategy and Organization/3-Project Manager/Stakeholders.md",
+    "5-Strategy and Organization/3-Project Manager/Social Currency.md",
+    "Images/social-currency-2.png",
+    "Images/social-currency.png",
+    "Exam topics/1. Projects and the Project Manager's Role.md",
+    "Images/Stakeholders-book.png",
+    "5-Strategy and Organization/5-International Projects",
+    "5-Strategy and Organization/4-Teams",
+    "5-Strategy and Organization/Untitled.md",
+    "5-Strategy and Organization/3-Project Manager",
+    "Exam topics/10. Organization.md",
     "Exam topics/7. Execution.md",
     "3-Executing/5-Software Development/Software Development.md",
-    "Hybrid Models.md",
+    "3-Executing/5-Software Development/Hybrid Models.md",
     "3-Executing/5-Software Development/Agile Project Management.md",
     "3-Executing/5-Software Development/Hub Project Management Structure.md",
     "Images/Hub-Project-Management-Structure.png",
-    "3-Executing/5-Software Development/Kanban.md",
-    "3-Executing/5-Software Development/Extreme Programming (XP).md",
-    "3-Executing/5-Software Development/Burndown Charts.md",
     "Images/Release-Burndown-Chart.png",
     "Images/Sprint-Burndown-Chart.png",
-    "3-Executing/5-Software Development/Scrum.md",
     "Images/Scrum-meetings.png",
-    "Images/Scrum-Development-Process.png",
-    "3-Executing/5-Software Development/Agile principles.md",
-    "3-Executing/5-Software Development/Iterative Incremental development (IID).md",
-    "3-Executing/5-Software Development/Traditional Project Mangement.md",
-    "3-Executing/5-Software Development/Waterfall Method.md",
-    "Images/traditional-vs-agile.png",
-    "Images/waterfall_method.png",
     "3-Executing/5-Software Development",
     "Untitled",
-    "5-Strategy and Organization/Organisational Structure/Organisational Structure.md",
-    "1-Defining/3-Detailed Scope Planning/Process Breakdown Structure (PBS).md",
-    "3-Executing/Executing.md",
-    "Exam topics/12. International projects.md",
-    "Exam topics/11. Leadership, Teams, and Roles.md",
-    "Exam topics/10. Organization.md",
-    "Exam topics/9. Business and Strategy.md",
-    "5-Strategy and Organization/Organisational Strategy/Project Selection System.md",
-    "5-Strategy and Organization/Organisational Strategy/Strategic Management.md",
-    "5-Strategy and Organization/Organisational Strategy/Portfolio Management System.md",
-    "5-Strategy and Organization/Organisational Strategy/Organisational Strategy.md",
-    "Images/Pasted image 20240607184332.png",
-    "Exam topics/8. Controlling  and Closing.md",
-    "to do.md",
     "Exam topics",
     "6-Case Analysis",
-    "Images/NetPresentValue_formular.png",
-    "Images/OrganizationalObjectives_charataristics.png",
-    "5-Strategy and Organization/Organisational Structure",
-    "5-Strategy and Organization/Organisational Strategy",
-    "5-Strategy and Organization",
-    "3-Executing/4-Performance Indices",
-    "cost",
-    "3-Executing/3-Earned Value Management"
+    "5-Strategy and Organization/2-Organisational Structure",
+    "5-Strategy and Organization/1-Organisational Strategy",
+    "5-Strategy and Organization"
   ]
 }
