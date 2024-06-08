@@ -1,0 +1,1 @@
+Culture refers to the shared norms, beliefs, values, and customs that bind people together, creating a unique identity.

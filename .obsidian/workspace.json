@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1fa00a6c208494e",
+            "id": "4bff9fe8b7996dff",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,48 +16,12 @@
             }
           },
           {
-            "id": "93541914aa548ed8",
+            "id": "2402d19f719c7cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam topics/11. Leadership, Teams, and Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cceb73d0fe0cde31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Strategy and Organization/4-Teams/Managing Project Teams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b40101f3cd97acec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Strategy and Organization/4-Teams/Functional Conflict.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005f12f17c621b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-Strategy and Organization/4-Teams/Dysfunctional Conflict.md",
+                "file": "Exam topics/12. International projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,12 +150,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1fa00a6c208494e",
+  "active": "4bff9fe8b7996dff",
   "lastOpenFiles": [
+    "Exam topics/12. International projects.md",
+    "5-Strategy and Organization/5-International Projects/International Projects.md",
+    "5-Strategy and Organization/5-International Projects/Intermediaries.md",
+    "5-Strategy and Organization/5-International Projects/Selection and Training.md",
+    "5-Strategy and Organization/5-International Projects/Culture Shock.md",
+    "Images/Culture Shock Cycle.png",
+    "5-Strategy and Organization/5-International Projects/Cross-Cultural Considerations.md",
+    "5-Strategy and Organization/5-International Projects/Culture.md",
+    "5-Strategy and Organization/5-International Projects/Infrastructure Evaluation Breakdown.md",
+    "5-Strategy and Organization/5-International Projects/Project Site Selection.md",
+    "5-Strategy and Organization/5-International Projects/Risk Matrix for Site Selection.md",
+    "Images/Evaluation Matrix Breakdown for Infrastructure.png",
+    "Images/Assessment Matrix Project Site Selection.png",
+    "5-Strategy and Organization/5-International Projects/Environmental Factors.md",
+    "Images/Environmental Factors Affecting International Projects.png",
     "5-Strategy and Organization/4-Teams/Managing Project Teams.md",
     "5-Strategy and Organization/4-Teams/Project Team Pitfalls.md",
-    "Team Spirit Becomes Team Infatuation.md",
-    "Bureaucratic Bypass Syndrome.md",
+    "5-Strategy and Organization/4-Teams/Team Spirit Becomes Team Infatuation.md",
+    "5-Strategy and Organization/4-Teams/Bureaucratic Bypass Syndrome.md",
     "5-Strategy and Organization/4-Teams/Groupthink.md",
     "Exam topics/11. Leadership, Teams, and Roles.md",
     "5-Strategy and Organization/4-Teams/Functional Conflict.md",
@@ -206,27 +185,12 @@
     "5-Strategy and Organization/4-Teams/Situation Factors.md",
     "5-Strategy and Organization/4-Teams/The Five-Stage Team Development Model.md",
     "Images/The Five-Stage Team Development Model.png",
-    "5-Strategy and Organization/3-Project Manager/Project Manager.md",
-    "5-Strategy and Organization/3-Project Manager/Stakeholders.md",
-    "5-Strategy and Organization/3-Project Manager/Social Currency.md",
     "Images/social-currency-2.png",
     "Images/social-currency.png",
-    "Exam topics/1. Projects and the Project Manager's Role.md",
     "Images/Stakeholders-book.png",
     "5-Strategy and Organization/5-International Projects",
     "5-Strategy and Organization/4-Teams",
-    "5-Strategy and Organization/Untitled.md",
     "5-Strategy and Organization/3-Project Manager",
-    "Exam topics/10. Organization.md",
-    "Exam topics/7. Execution.md",
-    "3-Executing/5-Software Development/Software Development.md",
-    "3-Executing/5-Software Development/Hybrid Models.md",
-    "3-Executing/5-Software Development/Agile Project Management.md",
-    "3-Executing/5-Software Development/Hub Project Management Structure.md",
-    "Images/Hub-Project-Management-Structure.png",
-    "Images/Release-Burndown-Chart.png",
-    "Images/Sprint-Burndown-Chart.png",
-    "Images/Scrum-meetings.png",
     "3-Executing/5-Software Development",
     "Untitled",
     "Exam topics",

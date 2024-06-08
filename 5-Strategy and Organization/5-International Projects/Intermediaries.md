@@ -1,0 +1,1 @@
+Intermediaries, often locals with foreign education, play vital roles in bridging cultural gaps. They act as translators, leverage social connections, and navigate sensitive issues like bribery. Consulting firms increasingly provide such services to facilitate international projects. Selection of competent translators is crucial to ensure accurate communication.
