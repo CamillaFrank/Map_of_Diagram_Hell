@@ -14,6 +14,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "93541914aa548ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam topics/7. Execution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "636050251effbe33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Executing/5-Software Development/Software Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -140,6 +164,31 @@
   },
   "active": "b1fa00a6c208494e",
   "lastOpenFiles": [
+    "Exam topics/7. Execution.md",
+    "3-Executing/5-Software Development/Software Development.md",
+    "Hybrid Models.md",
+    "3-Executing/5-Software Development/Agile Project Management.md",
+    "3-Executing/5-Software Development/Hub Project Management Structure.md",
+    "Images/Hub-Project-Management-Structure.png",
+    "3-Executing/5-Software Development/Kanban.md",
+    "3-Executing/5-Software Development/Extreme Programming (XP).md",
+    "3-Executing/5-Software Development/Burndown Charts.md",
+    "Images/Release-Burndown-Chart.png",
+    "Images/Sprint-Burndown-Chart.png",
+    "3-Executing/5-Software Development/Scrum.md",
+    "Images/Scrum-meetings.png",
+    "Images/Scrum-Development-Process.png",
+    "3-Executing/5-Software Development/Agile principles.md",
+    "3-Executing/5-Software Development/Iterative Incremental development (IID).md",
+    "3-Executing/5-Software Development/Traditional Project Mangement.md",
+    "3-Executing/5-Software Development/Waterfall Method.md",
+    "Images/traditional-vs-agile.png",
+    "Images/waterfall_method.png",
+    "3-Executing/5-Software Development",
+    "Untitled",
+    "5-Strategy and Organization/Organisational Structure/Organisational Structure.md",
+    "1-Defining/3-Detailed Scope Planning/Process Breakdown Structure (PBS).md",
+    "3-Executing/Executing.md",
     "Exam topics/12. International projects.md",
     "Exam topics/11. Leadership, Teams, and Roles.md",
     "Exam topics/10. Organization.md",
@@ -148,43 +197,18 @@
     "5-Strategy and Organization/Organisational Strategy/Strategic Management.md",
     "5-Strategy and Organization/Organisational Strategy/Portfolio Management System.md",
     "5-Strategy and Organization/Organisational Strategy/Organisational Strategy.md",
-    "Exam topics/7. Execution.md",
     "Images/Pasted image 20240607184332.png",
     "Exam topics/8. Controlling  and Closing.md",
     "to do.md",
     "Exam topics",
-    "Exam topics/6. Resources.md",
-    "2-Planning/4-Resource and Cost Scheduling/Resource and Cost Scheduling.md",
-    "2-Planning/2-Scheduling/Scheduling.md",
-    "Exam topics/5. Risk.md",
-    "2-Planning/3-Risk Management/Risk Management.md",
-    "Exam topics/4. Planning.md",
-    "2-Planning/Planning.md",
-    "Exam topics/3. Estimation.md",
-    "Exam topics/2. Project Definition and Scoping.md",
-    "2-Planning/1-Project Estimation/Project Estimation.md",
-    "1-Defining/3-Detailed Scope Planning/Detailed (late) scope planning.md",
-    "1-Defining/2-Initial Scope Planning/Initial (early) Scope Planning.md",
-    "1-Defining/1-Establishing Project Priorities/Establishing Project Priorities.md",
-    "1-Defining/Definition Phase Process.md",
-    "Exam topics/1. Projects and the Project Manager's Role.md",
     "6-Case Analysis",
     "Images/NetPresentValue_formular.png",
     "Images/OrganizationalObjectives_charataristics.png",
-    "Images/StrategicManagement_process.png",
-    "Images/OrganisationalCulture_aspects.png",
-    "Images/holacracyVShierachy.png",
-    "Images/FullyProjectizedOrganisation_example.png",
-    "Images/MatrixStructure_example.png",
-    "Images/DedicatedProjectTeams_example.png",
-    "Images/FunctionalOrganisaton_example.png",
     "5-Strategy and Organization/Organisational Structure",
     "5-Strategy and Organization/Organisational Strategy",
     "5-Strategy and Organization",
     "3-Executing/4-Performance Indices",
     "cost",
-    "3-Executing/3-Earned Value Management",
-    "3-Executing/2-Monitoring Tools",
-    "3-Executing/1-Project Monitoring Information System"
+    "3-Executing/3-Earned Value Management"
   ]
 }
