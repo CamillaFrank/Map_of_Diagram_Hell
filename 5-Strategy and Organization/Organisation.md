@@ -1,7 +1,6 @@
 
 #topic5
-An entity designed to accommodate or solve some specific problems, e.g.
-Coordination, Knowledge exchange, Innovation, Problem-solving, Efficient production
+An entity designed to accommodate or solve some specific problems, e.g. Coordination, Knowledge exchange, Innovation, Problem-solving, Efficient production
 
 An organization is a hypothesis about how best to solve (or balance) the challenges a given organization faces (links with Strategy as to how to execute the hypothesis)
 

@@ -23,3 +23,16 @@ It is important for project managers and team members to recognize the [[Situati
 - [[Managing Conflict within the Project]]
 - [[Project Team Pitfalls]]
 
+
+![[Creating a High-Performance Project Team.png]]
+
+- **Recruiting Members:** Select and recruit team members based on project needs and organizational structure.
+- **Conducting Meetings:** Facilitate effective team meetings.
+- **Establishing Team Identity:** Foster a sense of identity within the team.
+- **Creating Shared Vision:** Develop a common purpose or shared vision.
+- **Managing Reward Systems:** Implement reward systems that encourage teamwork.
+- **Orchestrating Decision Making:** Guide the decision-making process.
+- **Resolving Conflicts:** Address and resolve conflicts within the team.
+- **Rejuvenating the Team:** Re-energize the team when motivation wanes.
+
+

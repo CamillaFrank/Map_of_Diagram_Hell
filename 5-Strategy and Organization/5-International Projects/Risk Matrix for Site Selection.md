@@ -1,2 +1,3 @@
 To systematically evaluate these factors, project managers can use a risk matrix similar to those found in project management practices. This matrix assesses each potential project site against the identified factors, allowing for a structured comparison.
+
 ![[Assessment Matrix Project Site Selection.png]]

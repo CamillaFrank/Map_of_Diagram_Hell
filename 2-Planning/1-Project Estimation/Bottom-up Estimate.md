@@ -6,4 +6,5 @@ Works from detailed descriptions of the project and then work upwards. Performed
 - **Parametric Procedures Applied to Specific Tasks.** Just as parametric techniques such as cost per square foot can be the source of top-down estimates, the same technique can be applied to specific tasks.
 
 - **Range estimating.** Works best when work packages have significant uncertainty associated with the time or cost to complete. Use Low, Average and High.
+
 ![[Bottom-up_range.png]]

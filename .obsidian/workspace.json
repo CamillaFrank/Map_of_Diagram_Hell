@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bff9fe8b7996dff",
+            "id": "7a1a7b7cf9531f45",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,16 +16,60 @@
             }
           },
           {
-            "id": "2402d19f719c7cb7",
+            "id": "f6cecf484bab5f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam topics/12. International projects.md",
+                "file": "3-Executing/5-Software Development/Hybrid Models.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "c52ba38fadb774ba"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b676ebc18621b923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffab473c214ba354",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3-Executing/5-Software Development/Hybrid Models.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.682952182952183,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 64,
+                  "scale": 0.6554983534946918,
+                  "close": true
+                }
+              }
+            },
+            "group": "c52ba38fadb774ba"
           }
         ]
       }
@@ -93,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Executing/5-Software Development/Hybrid Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Executing/5-Software Development/Hybrid Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3-Executing/5-Software Development/Hybrid Models.md"
+              }
             }
           }
         ]
@@ -150,40 +198,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bff9fe8b7996dff",
+  "active": "f6cecf484bab5f5a",
   "lastOpenFiles": [
-    "Exam topics/12. International projects.md",
-    "5-Strategy and Organization/5-International Projects/International Projects.md",
-    "5-Strategy and Organization/5-International Projects/Intermediaries.md",
-    "5-Strategy and Organization/5-International Projects/Selection and Training.md",
-    "5-Strategy and Organization/5-International Projects/Culture Shock.md",
+    "3-Executing/5-Software Development/Software Development.md",
+    "3-Executing/5-Software Development/Iterative Incremental development (IID).md",
+    "3-Executing/5-Software Development/Agile Project Management.md",
+    "3-Executing/5-Software Development/Hub Project Management Structure.md",
+    "3-Executing/5-Software Development/Extreme Programming (XP).md",
+    "3-Executing/5-Software Development/Scrum.md",
+    "3-Executing/5-Software Development/Agile principles.md",
+    "Exam topics/7. Execution.md",
+    "2-Planning/4-Resource and Cost Scheduling/Planned Value (PV).md",
+    "3-Executing/3-Earned Value Management/Earned Value (EV).md",
+    "3-Executing/3-Earned Value Management/Earned Value Management (EVM).md",
+    "3-Executing/Executing.md",
+    "Exam topics/8. Controlling  and Closing.md",
+    "Exam topics/6. Resources.md",
+    "2-Planning/4-Resource and Cost Scheduling/Time-phased Budget.md",
+    "2-Planning/4-Resource and Cost Scheduling/Resource-constrained Scheduling.md",
+    "2-Planning/4-Resource and Cost Scheduling/Resource Allocation Methods.md",
+    "2-Planning/4-Resource and Cost Scheduling/Resource and Cost Scheduling.md",
+    "2-Planning/4-Resource and Cost Scheduling/Resource-constrained Project.md",
+    "Exam topics/5. Risk.md",
+    "2-Planning/3-Risk Management/Risk Management.md",
+    "Exam topics/4. Planning.md",
+    "Exam topics/3. Estimation.md",
+    "2-Planning/1-Project Estimation/Top-down Estimate.md",
+    "2-Planning/1-Project Estimation/Project Estimation.md",
+    "1-Defining/2-Initial Scope Planning/Conditions of Satisfaction (COS).md",
     "Images/Culture Shock Cycle.png",
-    "5-Strategy and Organization/5-International Projects/Cross-Cultural Considerations.md",
-    "5-Strategy and Organization/5-International Projects/Culture.md",
-    "5-Strategy and Organization/5-International Projects/Infrastructure Evaluation Breakdown.md",
-    "5-Strategy and Organization/5-International Projects/Project Site Selection.md",
-    "5-Strategy and Organization/5-International Projects/Risk Matrix for Site Selection.md",
     "Images/Evaluation Matrix Breakdown for Infrastructure.png",
     "Images/Assessment Matrix Project Site Selection.png",
-    "5-Strategy and Organization/5-International Projects/Environmental Factors.md",
     "Images/Environmental Factors Affecting International Projects.png",
-    "5-Strategy and Organization/4-Teams/Managing Project Teams.md",
-    "5-Strategy and Organization/4-Teams/Project Team Pitfalls.md",
-    "5-Strategy and Organization/4-Teams/Team Spirit Becomes Team Infatuation.md",
-    "5-Strategy and Organization/4-Teams/Bureaucratic Bypass Syndrome.md",
-    "5-Strategy and Organization/4-Teams/Groupthink.md",
-    "Exam topics/11. Leadership, Teams, and Roles.md",
-    "5-Strategy and Organization/4-Teams/Functional Conflict.md",
-    "5-Strategy and Organization/4-Teams/Managing Conflict within the Project.md",
-    "5-Strategy and Organization/4-Teams/Dysfunctional Conflict.md",
     "Images/conflict-in-lifecycle.png",
-    "5-Strategy and Organization/4-Teams/Project Vision.md",
-    "5-Strategy and Organization/4-Teams/Team Identity.md",
-    "5-Strategy and Organization/4-Teams/Team Norms.md",
-    "5-Strategy and Organization/4-Teams/Building High-Performance Project Teams.md",
     "Images/Creating a High-Performance Project Team.png",
-    "5-Strategy and Organization/4-Teams/Situation Factors.md",
-    "5-Strategy and Organization/4-Teams/The Five-Stage Team Development Model.md",
     "Images/The Five-Stage Team Development Model.png",
     "Images/social-currency-2.png",
     "Images/social-currency.png",
